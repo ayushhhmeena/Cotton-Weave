@@ -23,12 +23,18 @@ html, body{
 
 #left{
     height: 100%;
-    width: 40%;
+    width: 45%;
     background-color: aqua;
+}
+
+#left h1{
+    font-size: 8vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
 }
 
 #right{
     height: 100%;
-    width: 40%;
+    width: 45%;
     background-color: aquamarine;
 }
